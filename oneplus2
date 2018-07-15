@@ -21,7 +21,8 @@
       },
       {
         "repo": "https://github.com/TheMuppets/proprietary_vendor_oneplus",
-        "path": "vendor/oneplus"
+        "path": "vendor/oneplus",
+        "revision": "lineage-15.1"
       }
     ]
   }
