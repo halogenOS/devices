@@ -1,0 +1,45 @@
+{
+  "device": {
+    "name": "OnePlus 5T",
+    "codename": "dumpling",
+    "inCommon": "OnePlus MSM8998",
+    "arch": "arm64",
+    "status": "extsupported",
+    "supportLevel": 1,
+    "trees": [
+      {
+        "repo": "android_device_oneplus_dumpling",
+        "path": "device/oneplus/dumpling"
+      },
+      {
+        "repo": "android_device_oneplus_msm8998-common",
+        "path": "device/oneplus/msm8998-common"
+      },
+      {
+        "repo": "android_kernel_oneplus_msm8998",
+        "path": "kernel/oneplus/msm8998"
+      },
+      {
+        "repo": "android_device_oppo_common",
+        "path": "device/oppo/common"
+      },
+      {
+        "repo": "https://github.com/TheMuppets/proprietary_vendor_oneplus",
+        "path": "vendor/oneplus",
+        "revision": "lineage-15.1"
+      },
+      {
+        "repo": "android_external_ant-wireless_ant_native",
+        "path": "external/ant-wireless/ant_native"
+      },
+      {
+        "repo": "android_external_ant-wireless_ant_service",
+        "path": "external/ant-wireless/ant_service"
+      },
+      {
+        "repo": "android_external_ant-wireless_antradio-library",
+        "path": "external/ant-wireless/antradio-library"
+      }
+    ]
+  }
+}

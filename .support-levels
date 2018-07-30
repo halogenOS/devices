@@ -29,6 +29,7 @@
     "supported": "This device is supported",
     "onhold": "Device is being worked on or temporarily not maintained",
     "unsupported": "Support and maintenance for this device has been discontinued",
-    "maintained": "Device is being maintained but the maintainer does not provide direct support to users"
+    "maintained": "Device is being maintained but the maintainer does not provide direct support to users",
+    "extsupported": "Device is being maintained but someone else is responsible for support"
   }
 }
