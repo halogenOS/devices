@@ -22,7 +22,7 @@
       {
         "repo": "https://github.com/frap129/vendor_ambientmusic",
         "path": "vendor/ambientmusic",
-        "revision": "cr6-1"
+        "revision": "cr-6.1"
       }
     ]
   }
