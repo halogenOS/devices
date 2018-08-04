@@ -1,0 +1,29 @@
+{
+  "device": {
+    "name": "Pixel 2 XL",
+    "codename": "taimen",
+    "arch": "arm64",
+    "status": "onhold",
+    "supportLevel": 5,
+    "trees": [
+      {
+        "repo": "android_device_google_taimen",
+        "path": "device/google/taimen"
+      },
+      {
+        "repo": "android_device_google_wahoo",
+        "path": "device/google/wahoo"
+      },
+      {
+        "repo": "https://github.com/nathanchance/wahoo",
+        "path": "kernel/google/wahoo",
+        "revision": "oreo-m2"
+      },
+      {
+        "repo": "https://github.com/frap129/vendor_ambientmusic",
+        "path": "vendor/ambientmusic",
+        "revision": "cr6-1"
+      }
+    ]
+  }
+}
