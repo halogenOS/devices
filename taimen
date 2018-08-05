@@ -23,7 +23,17 @@
         "repo": "https://github.com/frap129/vendor_ambientmusic",
         "path": "vendor/ambientmusic",
         "revision": "cr-6.1"
-      }
+      },
+      {
+        "repo": "https://github.com/nitrogen-os-devices/proprietary_vendor_google",
+        "path": "vendor/google",
+        "revision": "o2"
+      },
+      {
+        "repo": "https://android.googlesource.com/platform/hardware/qcom/data/ipacfg-mgr/",
+        "path": "hardware/qcom/data/ipacfg-mgr",
+        "revision": "oreo-release"
+      },
     ]
   }
 }
